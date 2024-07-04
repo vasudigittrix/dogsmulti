@@ -24,7 +24,7 @@
     "@reduxjs/toolkit": "^2.2.4",
     "@tabler/icons-react": "^2.1.1",
     "@types/node": "20.2.3",
-    "@types/react": "18.2.6",
+    "@types/react": "18.0.0",
     "@types/react-dom": "18.2.4",
     "axios": "^1.6.8",
     "bcrypt": "^5.1.1",
